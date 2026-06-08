@@ -189,7 +189,7 @@ def main():
         print("신규 식당 없음")
         return
 
-    send_count = min(len(new_places), 10)
+    send_count = len(new_places)
 
     for place in new_places[:send_count]:
         address = place.get("roadAddress") or place.get("address") or ""
