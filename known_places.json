@@ -132,7 +132,7 @@
     "address": "대구광역시 수성구 범어동 40-4 1,2층",
     "roadAddress": "대구광역시 수성구 상록로2길 22 1,2층",
     "link": "https://www.instagram.com/roast_lobby_",
-    "foundQuery": "범어동 신상 맛집"
+    "foundQuery": "수성구 신상 맛집"
   },
   {
     "id": "c632cca506a6c12ddc80b66b9de5ea578064dec0",
@@ -240,7 +240,7 @@
     "address": "대구광역시 북구 고성동2가 113-5 1층 헤이트커피 고성점",
     "roadAddress": "대구광역시 북구 고성로28길 2-1 1층 헤이트커피 고성점",
     "link": "https://www.instagram.com/hayt_coffee_gs?igsh=MTQ3d212YmwxNnN4eQ%3D%3D&utm_source=qr",
-    "foundQuery": "칠곡 신상 맛집"
+    "foundQuery": "북구 신상 맛집"
   },
   {
     "id": "3a213975e7b1bc3e15c9d5a901b86f138bd5f949",
@@ -313,5 +313,194 @@
     "roadAddress": "경상북도 구미시 봉곡남로17길 18 1층",
     "link": "https://www.instagram.com/cafe.cottage_bonggok_?igsh=MTBsYnlrdnYxbjJqMg==",
     "foundQuery": "구미 신상 맛집"
+  },
+  {
+    "id": "d8ba9d893317509323517a77ac1c275241703857",
+    "title": "포어렛",
+    "category": "카페,디저트>카페",
+    "address": "대구광역시 중구 삼덕동2가 208-4 포어렛",
+    "roadAddress": "대구광역시 중구 동덕로 109 포어렛",
+    "link": "https://www.instagram.com/pourlet_official",
+    "foundQuery": "반월당 신상 맛집"
+  },
+  {
+    "id": "6b53d9320e62b82b72437c3aaa2a8eec295a6e02",
+    "title": "고도.정",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 중구 동인동2가 62-7 고도.정",
+    "roadAddress": "대구광역시 중구 경상감영길 288 고도.정",
+    "link": "https://www.instagram.com/kodo.jeong.daegu?igsh=MWk4eDVvZWw4YzcxaQ==",
+    "foundQuery": "반월당 신상 맛집"
+  },
+  {
+    "id": "d5e7f621e53c485768e555a4fdbb7d1fb5cdcac1",
+    "title": "신상컵스토리",
+    "category": "술집>바(BAR)",
+    "address": "서울특별시 중구 남창동 46-12 페인트타운8층",
+    "roadAddress": "서울특별시 중구 남대문시장8길 24 페인트타운8층",
+    "link": "https://map.naver.com/v5/search/%EC%8B%A0%EC%83%81%EC%BB%B5%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A58%EA%B8%B8%2024%20%ED%8E%98%EC%9D%B8%ED%8A%B8%ED%83%80%EC%9A%B48%EC%B8%B5",
+    "foundQuery": "중구 신상 맛집"
+  },
+  {
+    "id": "2fa706df61931df0a1e1e5881f78e716c6e1078d",
+    "title": "톤즈 을지로",
+    "category": "음식점>카페,디저트",
+    "address": "서울특별시 중구 산림동 207-2 3층 라열 373호",
+    "roadAddress": "서울특별시 중구 을지로 157 3층 라열 373호",
+    "link": "https://www.instagram.com/tones_seoul",
+    "foundQuery": "중구 신상 맛집"
+  },
+  {
+    "id": "d6acf0d0859682bd74b789d9cb0e445decfd862c",
+    "title": "카페 오롯이",
+    "category": "음식점>카페,디저트",
+    "address": "경상북도 김천시 평화동 14-22 1층",
+    "roadAddress": "경상북도 김천시 구름다리3길 12-12 1층",
+    "link": "https://www.instagram.com/orosy_cafe_",
+    "foundQuery": "황금동 신상 맛집"
+  },
+  {
+    "id": "1482d00ff28496fdec5b9f981b2be365e76db2fe",
+    "title": "무궁화기사식당",
+    "category": "술집>맥주,호프",
+    "address": "경상북도 김천시 부곡동 416-1 416-1",
+    "roadAddress": "경상북도 김천시 시민로 39 부곡동 416-1",
+    "link": "https://www.instagram.com/mugunghwa_retropub/?igshid=ZDdkNTZiNTM%3D",
+    "foundQuery": "황금동 신상 맛집"
+  },
+  {
+    "id": "a2d5ed4bcd010427d12122c25ea96639d6e33de0",
+    "title": "조마루감자탕 신상동점",
+    "category": "한식>감자탕",
+    "address": "경기도 부천시 원미구 상동 544-1",
+    "roadAddress": "경기도 부천시 원미구 길주로 80",
+    "link": "http://www.jomaru.co.kr/",
+    "foundQuery": "상동 신상 맛집"
+  },
+  {
+    "id": "f74602a063641a9f5b8fe9365aea8c9f49d1769c",
+    "title": "루나반",
+    "category": "카페,디저트>카페",
+    "address": "대구광역시 남구 봉덕동 1329-73 홈스파월드 1층 루나반",
+    "roadAddress": "대구광역시 남구 앞산순환로 651 홈스파월드 1층 루나반",
+    "link": "https://www.instagram.com/cafe_banwoldang",
+    "foundQuery": "상인동 신상 맛집"
+  },
+  {
+    "id": "d3a38326db2cc240fab8cf887011af603bc67433",
+    "title": "8시20분",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 남구 대명동 567-9",
+    "roadAddress": "대구광역시 남구 안지랑로 5-7",
+    "link": "https://www.instagram.com/8h._.20m",
+    "foundQuery": "상인동 신상 맛집"
+  },
+  {
+    "id": "18141f8b9ea4b33015fcf27332dacc8cf3fa2305",
+    "title": "리틀파울로",
+    "category": "음식점>카페,디저트",
+    "address": "경기도 김포시 양촌읍 학운리 243-26 리틀파울로",
+    "roadAddress": "경기도 김포시 양촌읍 유현삭시로120번길 88 리틀파울로",
+    "link": "https://www.instagram.com/littlepaulo_official",
+    "foundQuery": "서구 신상 맛집"
+  },
+  {
+    "id": "8f254477b43696667c729750930ca86c7c235a07",
+    "title": "뉴트로2010 부평점",
+    "category": "술집>맥주,호프",
+    "address": "인천광역시 부평구 부평동 154-15 3층",
+    "roadAddress": "인천광역시 부평구 경원대로1403번길 42 3층",
+    "link": "https://www.newtro2010.co.kr",
+    "foundQuery": "서구 신상 맛집"
+  },
+  {
+    "id": "d1108cded28eb72fb676988a509581cfb30f82e7",
+    "title": "애당",
+    "category": "카페,디저트>카페",
+    "address": "인천광역시 부평구 부평동 211-1 2층",
+    "roadAddress": "인천광역시 부평구 부평문화로79번길 13 2층",
+    "link": "https://map.naver.com/v5/search/%EC%95%A0%EB%8B%B9%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B6%80%ED%8F%89%EA%B5%AC%20%EB%B6%80%ED%8F%89%EB%AC%B8%ED%99%94%EB%A1%9C79%EB%B2%88%EA%B8%B8%2013%202%EC%B8%B5",
+    "foundQuery": "서구 신상 맛집"
+  },
+  {
+    "id": "6f7064312cce3c3125ee05020bd313d21abc2320",
+    "title": "오비오 공감",
+    "category": "음식점>카페,디저트",
+    "address": "경기도 김포시 마산동 669-6 1층 101호",
+    "roadAddress": "경기도 김포시 영터길 43 1층 101호",
+    "link": "https://blog.naver.com/dptmdpfshxm",
+    "foundQuery": "서구 신상 맛집"
+  },
+  {
+    "id": "4a0a1247be85dc9320bf8fc31069d3bd0c969baf",
+    "title": "포차처럼 인천부평점",
+    "category": "술집>포장마차",
+    "address": "인천광역시 부평구 부평동 154-9 1층",
+    "roadAddress": "인천광역시 부평구 경원대로1403번길 38-18 1층",
+    "link": "https://map.naver.com/v5/search/%ED%8F%AC%EC%B0%A8%EC%B2%98%EB%9F%BC%20%EC%9D%B8%EC%B2%9C%EB%B6%80%ED%8F%89%EC%A0%90%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B6%80%ED%8F%89%EA%B5%AC%20%EA%B2%BD%EC%9B%90%EB%8C%80%EB%A1%9C1403%EB%B2%88%EA%B8%B8%2038-18%201%EC%B8%B5",
+    "foundQuery": "서구 신상 맛집"
+  },
+  {
+    "id": "ab66e992c76daa5c71b9b0a5aaa1ecca51a32ac5",
+    "title": "콘티",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 북구 국우동 671 콘티(conti)",
+    "roadAddress": "대구광역시 북구 도남길 45-4 콘티(conti)",
+    "link": "https://smartstore.naver.com/conticoffee",
+    "foundQuery": "북구 신상 맛집"
+  },
+  {
+    "id": "1bef5d8dc141c6ffa93e6d5bc2a80a9287a725c0",
+    "title": "콤마72",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 북구 복현동 609-10",
+    "roadAddress": "대구광역시 북구 경대로서19길 36-22",
+    "link": "https://map.naver.com/v5/search/%EC%BD%A4%EB%A7%8872%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B6%81%EA%B5%AC%20%EA%B2%BD%EB%8C%80%EB%A1%9C%EC%84%9C19%EA%B8%B8%2036-22",
+    "foundQuery": "북구 신상 맛집"
+  },
+  {
+    "id": "21ea7609988bf7d3a610d5177d69a0b99fe3533f",
+    "title": "오브린",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 북구 구암동 774-4 1층 카페오브린",
+    "roadAddress": "대구광역시 북구 동암로38길 3-11 1층 카페오브린",
+    "link": "http://instagram.com/auberin_cafe",
+    "foundQuery": "북구 신상 맛집"
+  },
+  {
+    "id": "0111d6d4b4a5c6520411d424104c9ea4121a8c12",
+    "title": "우후죽순 동대구역점",
+    "category": "술집>요리주점",
+    "address": "대구광역시 동구 신천동 372-3 우후죽순 동대구역점",
+    "roadAddress": "대구광역시 동구 동부로30길 41-14 우후죽순 동대구역점",
+    "link": "https://www.instagram.com/uhjs_ddg",
+    "foundQuery": "동대구역 신상 맛집"
+  },
+  {
+    "id": "ffca922cc2e5e1c08b82831c587d114a39eb1be7",
+    "title": "베이커리라데",
+    "category": "카페,디저트>베이커리",
+    "address": "대구광역시 수성구 수성동4가 1052-4 1층",
+    "roadAddress": "대구광역시 수성구 들안로 379-2 1층",
+    "link": "https://www.instagram.com/ra_._de",
+    "foundQuery": "동대구역 신상 맛집"
+  },
+  {
+    "id": "837b4c7121ed40f71e168578df3a9c8960866266",
+    "title": "구구족 경산점",
+    "category": "음식점>한식>육류,고기요리>족발,보쌈",
+    "address": "경상북도 경산시 옥곡동 824-4 1층 구구족",
+    "roadAddress": "경상북도 경산시 경산로7길 4-16 1층 구구족",
+    "link": "http://구구족.com",
+    "foundQuery": "경산 신규 식당"
+  },
+  {
+    "id": "8dfc248c17c51663b753a2986b80fa53198b59e1",
+    "title": "카페215",
+    "category": "음식점>카페,디저트",
+    "address": "경기도 고양시 일산동구 성석동 587-9 587-9 하늘색문 카페215",
+    "roadAddress": "경기도 고양시 일산동구 진밭로15번길 7-19 성석동 587-9 하늘색문 카페215",
+    "link": "https://www.instagram.com/215.cafe__",
+    "foundQuery": "중산동 신상 맛집"
   }
 ]
