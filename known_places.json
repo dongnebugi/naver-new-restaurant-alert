@@ -1,1 +1,317 @@
-[]
+[
+  {
+    "id": "04c82e6976af01ef06fe675ba39b9c0d9b126c67",
+    "title": "이스트라이트",
+    "category": "음식점>브런치",
+    "address": "대구광역시 북구 침산동 557-42",
+    "roadAddress": "대구광역시 북구 침산로40길 7",
+    "link": "https://www.instagram.com/eastlight_official",
+    "foundQuery": "대구 신상 맛집"
+  },
+  {
+    "id": "6e0eaa138c3c6628eff35d5c53d8ff94f686482f",
+    "title": "창근 대봉점",
+    "category": "음식점>한식",
+    "address": "대구광역시 중구 대봉동 25-7 1층",
+    "roadAddress": "대구광역시 중구 달구벌대로440길 26 1층",
+    "link": "https://www.instagram.com/changguen_daegu?igsh=b3o2MzJseDMyczI3&utm_source=qr",
+    "foundQuery": "대구 신상 맛집"
+  },
+  {
+    "id": "72a0eee8ff51ebe2f6fff81849d06c46dea70395",
+    "title": "조르바 삼덕",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 중구 삼덕동3가 189-6 1층",
+    "roadAddress": "대구광역시 중구 국채보상로150길 75-10 1층",
+    "link": "https://map.naver.com/v5/search/%EC%A1%B0%EB%A5%B4%EB%B0%94%20%EC%82%BC%EB%8D%95%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EA%B5%AD%EC%B1%84%EB%B3%B4%EC%83%81%EB%A1%9C150%EA%B8%B8%2075-10%201%EC%B8%B5",
+    "foundQuery": "대구 신상 맛집"
+  },
+  {
+    "id": "134e9a0b6236cb53b04e5ebacb46c86f0944a648",
+    "title": "아류",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 중구 봉산동 185-9 1층",
+    "roadAddress": "대구광역시 중구 이천로 240-13 1층",
+    "link": "https://www.instagram.com/aryu_coffee",
+    "foundQuery": "대구 신상 맛집"
+  },
+  {
+    "id": "94c1973c0d3ea162a59d192851f1ee74011ab314",
+    "title": "애니포레스트 무열회관점",
+    "category": "음식점>한식",
+    "address": "대구광역시 수성구 만촌동 599-1 1층",
+    "roadAddress": "대구광역시 수성구 무열로 56 1층",
+    "link": "https://www.youtube.com/@anyeats_world",
+    "foundQuery": "대구 신상 맛집"
+  },
+  {
+    "id": "399df68a8bf0a2b35f53f42ba6787c87086bd080",
+    "title": "폴 바셋 대구 감삼 DT점",
+    "category": "카페,디저트>카페",
+    "address": "대구광역시 달서구 감삼동 65-2",
+    "roadAddress": "대구광역시 달서구 달구벌대로 1615",
+    "link": "https://www.baristapaulbassett.co.kr/Index.pb",
+    "foundQuery": "대구 오픈 맛집"
+  },
+  {
+    "id": "3709f0f85f001adeff890f469c83b586d536d0d8",
+    "title": "폴 바셋 대구 만촌 DT점",
+    "category": "카페,디저트>카페",
+    "address": "대구광역시 수성구 만촌동 435-3",
+    "roadAddress": "대구광역시 수성구 무열로 178",
+    "link": "https://www.baristapaulbassett.co.kr/Index.pb",
+    "foundQuery": "대구 오픈 맛집"
+  },
+  {
+    "id": "a7628b7d2e6758f939093116fcc0629e31d9559f",
+    "title": "사월보름",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 남구 이천동 385-3 골목길 두번째집",
+    "roadAddress": "대구광역시 남구 이천로32길 12-4 골목길 두번째집",
+    "link": "http://instagram.com/april.fifteen_4.15",
+    "foundQuery": "대구 오픈 맛집"
+  },
+  {
+    "id": "77eddb0e1749722a640a65ed088f1c54d99fe0fe",
+    "title": "카페오픈24 도원점",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 달서구 도원동 1457-3 1층 103호 카페오픈24 도원점",
+    "roadAddress": "대구광역시 달서구 도원남로 54 1층 103호 카페오픈24 도원점",
+    "link": "https://map.naver.com/v5/search/%EC%B9%B4%ED%8E%98%EC%98%A4%ED%94%8824%20%EB%8F%84%EC%9B%90%EC%A0%90%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%8B%AC%EC%84%9C%EA%B5%AC%20%EB%8F%84%EC%9B%90%EB%82%A8%EB%A1%9C%2054%201%EC%B8%B5%20103%ED%98%B8%20%EC%B9%B4%ED%8E%98%EC%98%A4%ED%94%8824%20%EB%8F%84%EC%9B%90%EC%A0%90",
+    "foundQuery": "대구 오픈 맛집"
+  },
+  {
+    "id": "f4808748df2cff1d10859c92267daa3ab7835463",
+    "title": "로로종그랑",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 동구 신천동 194-3 1층",
+    "roadAddress": "대구광역시 동구 장등로 75 1층",
+    "link": "https://map.naver.com/v5/search/%EB%A1%9C%EB%A1%9C%EC%A2%85%EA%B7%B8%EB%9E%91%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%8F%99%EA%B5%AC%20%EC%9E%A5%EB%93%B1%EB%A1%9C%2075%201%EC%B8%B5",
+    "foundQuery": "대구 오픈 맛집"
+  },
+  {
+    "id": "2b2c9fc87b9309af362664a08ba7ed6ddb6cb21b",
+    "title": "영원아카이브",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 중구 공평동 88-1 2층 은색 입간판",
+    "roadAddress": "대구광역시 중구 국채보상로 631 2층 은색 입간판",
+    "link": "https://www.instagram.com/youngwon_archive",
+    "foundQuery": "동성로 신상 맛집"
+  },
+  {
+    "id": "3f1d55de06370e510cecb023a22b52da30e43f26",
+    "title": "영원미학",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 중구 동문동 4-10 4층",
+    "roadAddress": "대구광역시 중구 경상감영길 227 4층",
+    "link": "https://www.instagram.com/youngwon_mihak",
+    "foundQuery": "동성로 신상 맛집"
+  },
+  {
+    "id": "52113ece274950ff7b54a1d4b3d132f61e546aeb",
+    "title": "헤이트커피 대구 교동점",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 중구 동문동 4-19 1층 HAYT",
+    "roadAddress": "대구광역시 중구 교동4길 33-18 1층 HAYT",
+    "link": "https://www.instagram.com/hayt_coffee_official",
+    "foundQuery": "동성로 신상 맛집"
+  },
+  {
+    "id": "acf38c9e8b9dd1677dc4912667eae61d6b1e2628",
+    "title": "모닥불 대구교동점",
+    "category": "음식점>술집",
+    "address": "대구광역시 중구 동문동 18-1 1층 모닥불",
+    "roadAddress": "대구광역시 중구 교동1길 35 1층 모닥불",
+    "link": "https://www.instagram.com/modakbul_daegu",
+    "foundQuery": "동성로 신상 맛집"
+  },
+  {
+    "id": "cc4c39bec07ca812d6f7c54d7cceb111712682fd",
+    "title": "로스트로비",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 수성구 범어동 40-4 1,2층",
+    "roadAddress": "대구광역시 수성구 상록로2길 22 1,2층",
+    "link": "https://www.instagram.com/roast_lobby_",
+    "foundQuery": "범어동 신상 맛집"
+  },
+  {
+    "id": "c632cca506a6c12ddc80b66b9de5ea578064dec0",
+    "title": "세비지커피",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 동구 효목동 402-1 1층",
+    "roadAddress": "대구광역시 동구 효신로6길 33 1층",
+    "link": "https://www.instagram.com/savagecoffee_official/",
+    "foundQuery": "범어동 신상 맛집"
+  },
+  {
+    "id": "e2d60287b71595689a5ef4ced7696688e7503355",
+    "title": "이얼즈 킷사",
+    "category": "카페,디저트>카페",
+    "address": "대구광역시 중구 삼덕동3가 243-4 1층",
+    "roadAddress": "대구광역시 중구 달구벌대로447길 43 1층",
+    "link": "https://www.instagram.com/years.kitsa?igsh=MTV5MjRwdWVlYW1hZg==",
+    "foundQuery": "범어동 신상 맛집"
+  },
+  {
+    "id": "eba67ba8ec401ed6b4e4ff684cc873a4f3e0d452",
+    "title": "인생은 직진",
+    "category": "술집>요리주점",
+    "address": "대구광역시 중구 동인동4가 302-1 1층 인생은직진",
+    "roadAddress": "대구광역시 중구 국채보상로142길 27 1층 인생은직진",
+    "link": "https://www.instagram.com/neveratop.life",
+    "foundQuery": "범어동 신상 맛집"
+  },
+  {
+    "id": "bdec8769e1a45eb6606bebc70841a1c23a0a0176",
+    "title": "아로케 대구시지점",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 수성구 시지동 246-5 1층",
+    "roadAddress": "대구광역시 수성구 달구벌대로 3058 1층",
+    "link": "https://www.instagram.com/aroke_daegu?igsh=bDM2dGpxZnB0ZGo4&utm_source=qr",
+    "foundQuery": "수성구 신상 맛집"
+  },
+  {
+    "id": "44dfce03c2545308599e55b7befb4ec2b31721e5",
+    "title": "How was your day",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 수성구 지산동 1288-9 2층 1호 (how was your day 카페)",
+    "roadAddress": "대구광역시 수성구 용학로 293 2층 1호 (how was your day 카페)",
+    "link": "https://www.threads.com/@yourday_welcome?invite=0",
+    "foundQuery": "수성구 신상 맛집"
+  },
+  {
+    "id": "eb096a775a69f3e3a81c5bccd5a8768353166d31",
+    "title": "슬로울리 인 무학",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 수성구 지산동 761 상가5동 1,2층",
+    "roadAddress": "대구광역시 수성구 무학로 189 상가5동 1,2층",
+    "link": "https://map.naver.com/v5/search/%EC%8A%AC%EB%A1%9C%EC%9A%B8%EB%A6%AC%20%EC%9D%B8%20%EB%AC%B4%ED%95%99%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%88%98%EC%84%B1%EA%B5%AC%20%EB%AC%B4%ED%95%99%EB%A1%9C%20189%20%EC%83%81%EA%B0%805%EB%8F%99%201%2C2%EC%B8%B5",
+    "foundQuery": "수성구 신상 맛집"
+  },
+  {
+    "id": "23421b53e690fd5d03ae3dd50d9bfea6835ca501",
+    "title": "모모드",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 달서구 죽전동 266-5 죽전역하우스 1층",
+    "roadAddress": "대구광역시 달서구 와룡로41길 10 죽전역하우스 1층",
+    "link": "http://instagram.com/momodecoffee",
+    "foundQuery": "달서구 신상 맛집"
+  },
+  {
+    "id": "d5091f3abe0b535d6595f9ff0af73d36bb54213f",
+    "title": "카페 별빛",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 달서구 송현동 산56 달서목재문화관 2F, 3F 카페 별빛",
+    "roadAddress": "대구광역시 달서구 앞산순환로 248 달서목재문화관 2F, 3F 카페 별빛",
+    "link": "https://www.instagram.com/053starlight",
+    "foundQuery": "달서구 신상 맛집"
+  },
+  {
+    "id": "615afc2a3ab90bd2700f2a982b2d664cd597b118",
+    "title": "물그나무 카페",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 달서구 이곡동 1323-1 1층 물그나무카페",
+    "roadAddress": "대구광역시 달서구 선원로23길 69 1층 물그나무카페",
+    "link": "https://www.instagram.com/_mul.geunamu_",
+    "foundQuery": "달서구 신상 맛집"
+  },
+  {
+    "id": "e73c0dcf33d634e63c963d629d9b10f055cc0c3f",
+    "title": "케이크앤드",
+    "category": "카페,디저트>케이크전문",
+    "address": "대구광역시 서구 내당동 427-16 1층",
+    "roadAddress": "대구광역시 서구 당산로41동길 37 1층",
+    "link": "http://pf.kakao.com/_aqxmFG",
+    "foundQuery": "달서구 신상 맛집"
+  },
+  {
+    "id": "8c15659564f399786164cf41435b664dec201cf3",
+    "title": "더 아로마스",
+    "category": "카페,디저트>베이커리",
+    "address": "경상북도 칠곡군 동명면 기성리 594",
+    "roadAddress": "경상북도 칠곡군 동명면 팔공산로 189",
+    "link": "https://www.facebook.com/thearomasofficial",
+    "foundQuery": "칠곡 신상 맛집"
+  },
+  {
+    "id": "ce5d9af61a1a77c59c3a6fa7191c668d8d0e4129",
+    "title": "헤이트커피 대구 고성점",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 북구 고성동2가 113-5 1층 헤이트커피 고성점",
+    "roadAddress": "대구광역시 북구 고성로28길 2-1 1층 헤이트커피 고성점",
+    "link": "https://www.instagram.com/hayt_coffee_gs?igsh=MTQ3d212YmwxNnN4eQ%3D%3D&utm_source=qr",
+    "foundQuery": "칠곡 신상 맛집"
+  },
+  {
+    "id": "3a213975e7b1bc3e15c9d5a901b86f138bd5f949",
+    "title": "사이",
+    "category": "음식점>카페,디저트",
+    "address": "경상북도 구미시 형곡동 858-10 2층",
+    "roadAddress": "경상북도 구미시 신시로 52-6 2층",
+    "link": "https://www.instagram.com/sai_project_",
+    "foundQuery": "칠곡 신상 맛집"
+  },
+  {
+    "id": "ebbe8e98da93cd988b7ad0f67c5d19447a447852",
+    "title": "나드리김밥천국 진량신상점",
+    "category": "음식점>분식",
+    "address": "경상북도 경산시 진량읍 신상리 1137-8",
+    "roadAddress": "경상북도 경산시 진량읍 낙산길 10-2",
+    "link": "http://나드리김밥.com/",
+    "foundQuery": "경산 신상 맛집"
+  },
+  {
+    "id": "3b070b119b040f0dd3a3a0fedb127076c593333d",
+    "title": "윌로우",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 동구 율하동 1230 1층 104호 윌로우",
+    "roadAddress": "대구광역시 동구 안심로22길 16 1층 104호 윌로우",
+    "link": "https://100원커피이벤트-선착순주문하기.com",
+    "foundQuery": "경산 신상 맛집"
+  },
+  {
+    "id": "e52d7cc7016a5c1118ab83eb43ecd3c2fa7f0c91",
+    "title": "앤지스2",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 동구 용수동 59-31 1,2층",
+    "roadAddress": "대구광역시 동구 팔공산로185길 71 (1,2층)",
+    "link": "https://www.instagram.com/wood.mood.good",
+    "foundQuery": "경산 신상 맛집"
+  },
+  {
+    "id": "bb24f52b91f6477fcd07948ace216cabc924672b",
+    "title": "키친901",
+    "category": "음식점>양식",
+    "address": "대구광역시 동구 용수동 90-1",
+    "roadAddress": "대구광역시 동구 팔공산로 1121",
+    "link": "https://blog.naver.com/emilliahotel",
+    "foundQuery": "경산 신상 맛집"
+  },
+  {
+    "id": "5f43dfdc9552fe30246c96604ed45b43f1d6c01d",
+    "title": "핸즈커피 구미고아읍점",
+    "category": "카페,디저트>카페",
+    "address": "경상북도 구미시 고아읍 원호리 334 핸즈커피 구미점",
+    "roadAddress": "경상북도 구미시 고아읍 원대로 96 핸즈커피 구미고아읍점",
+    "link": "https://handscoffee.com/new_hands/",
+    "foundQuery": "구미 신상 맛집"
+  },
+  {
+    "id": "e3acb61f4bd16d6781b007892cd13c4e66d9bc74",
+    "title": "미즈센코",
+    "category": "술집>바(BAR)",
+    "address": "경상북도 구미시 송정동 480-35 2층",
+    "roadAddress": "경상북도 구미시 신시로10길 87-13 2층",
+    "link": "https://www.instagram.com/mizu_senko",
+    "foundQuery": "구미 신상 맛집"
+  },
+  {
+    "id": "8f82d60b84c055fdd0e9184d1e4d31f13e188034",
+    "title": "코티지",
+    "category": "카페,디저트>카페",
+    "address": "경상북도 구미시 봉곡동 227-10 1층",
+    "roadAddress": "경상북도 구미시 봉곡남로17길 18 1층",
+    "link": "https://www.instagram.com/cafe.cottage_bonggok_?igsh=MTBsYnlrdnYxbjJqMg==",
+    "foundQuery": "구미 신상 맛집"
+  }
+]
