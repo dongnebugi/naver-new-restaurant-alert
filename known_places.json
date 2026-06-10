@@ -33,7 +33,7 @@
     "address": "대구광역시 중구 봉산동 185-9 1층",
     "roadAddress": "대구광역시 중구 이천로 240-13 1층",
     "link": "https://www.instagram.com/aryu_coffee",
-    "foundQuery": "대구 신상 맛집"
+    "foundQuery": "동성로 신상 맛집"
   },
   {
     "id": "94c1973c0d3ea162a59d192851f1ee74011ab314",
@@ -195,7 +195,7 @@
     "address": "대구광역시 달서구 죽전동 266-5 죽전역하우스 1층",
     "roadAddress": "대구광역시 달서구 와룡로41길 10 죽전역하우스 1층",
     "link": "http://instagram.com/momodecoffee",
-    "foundQuery": "달서구 신상 맛집"
+    "foundQuery": "대구 신상 맛집"
   },
   {
     "id": "d5091f3abe0b535d6595f9ff0af73d36bb54213f",
@@ -249,7 +249,7 @@
     "address": "경상북도 구미시 형곡동 858-10 2층",
     "roadAddress": "경상북도 구미시 신시로 52-6 2층",
     "link": "https://www.instagram.com/sai_project_",
-    "foundQuery": "칠곡 신상 맛집"
+    "foundQuery": "구미 신상 맛집"
   },
   {
     "id": "ebbe8e98da93cd988b7ad0f67c5d19447a447852",
@@ -502,5 +502,23 @@
     "roadAddress": "경기도 고양시 일산동구 진밭로15번길 7-19 성석동 587-9 하늘색문 카페215",
     "link": "https://www.instagram.com/215.cafe__",
     "foundQuery": "중산동 신상 맛집"
+  },
+  {
+    "id": "a89f67951a9dd213825dd85f387b8b1069e52a4c",
+    "title": "바크",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 중구 삼덕동3가 262-1 1층",
+    "roadAddress": "대구광역시 중구 달구벌대로445길 44-14 1층",
+    "link": "https://www.instagram.com/cafe_bark?igsh=MXFiYmVwaGl2d3J5cA%3D%3D&utm_source=qr",
+    "foundQuery": "대구 오픈 맛집"
+  },
+  {
+    "id": "3ca04b6ef5202d4cb68898a13128dc9eda9ddf1d",
+    "title": "한시",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 북구 학정동 403 노본길 26-9",
+    "roadAddress": "대구광역시 북구 노본길 26-7 노본길 26-9",
+    "link": "https://www.instagram.com/cafe_hansee",
+    "foundQuery": "북구 신상 맛집"
   }
 ]
