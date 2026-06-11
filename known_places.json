@@ -33,7 +33,7 @@
     "address": "대구광역시 중구 봉산동 185-9 1층",
     "roadAddress": "대구광역시 중구 이천로 240-13 1층",
     "link": "https://www.instagram.com/aryu_coffee",
-    "foundQuery": "동성로 신상 맛집"
+    "foundQuery": "대구 신상 맛집"
   },
   {
     "id": "94c1973c0d3ea162a59d192851f1ee74011ab314",
@@ -42,7 +42,7 @@
     "address": "대구광역시 수성구 만촌동 599-1 1층",
     "roadAddress": "대구광역시 수성구 무열로 56 1층",
     "link": "https://www.youtube.com/@anyeats_world",
-    "foundQuery": "대구 신상 맛집"
+    "foundQuery": "수성구 신상 맛집"
   },
   {
     "id": "399df68a8bf0a2b35f53f42ba6787c87086bd080",
@@ -520,5 +520,14 @@
     "roadAddress": "대구광역시 북구 노본길 26-7 노본길 26-9",
     "link": "https://www.instagram.com/cafe_hansee",
     "foundQuery": "북구 신상 맛집"
+  },
+  {
+    "id": "7c2ff9072f2a0b1f230066ba5e4e3c2f31f50e28",
+    "title": "피츠로이",
+    "category": "음식점>카페,디저트",
+    "address": "대구광역시 남구 대명동 1797-17 1층",
+    "roadAddress": "대구광역시 남구 중앙대로47길 25-2 1층",
+    "link": "https://www.instagram.com/fitzroy_cruller?igsh=MWpxYWs1ejJ0bWV1YQ==",
+    "foundQuery": "달서구 신상 맛집"
   }
 ]
