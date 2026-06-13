@@ -249,7 +249,7 @@
     "address": "경상북도 구미시 형곡동 858-10 2층",
     "roadAddress": "경상북도 구미시 신시로 52-6 2층",
     "link": "https://www.instagram.com/sai_project_",
-    "foundQuery": "구미 신상 맛집"
+    "foundQuery": "칠곡 신상 맛집"
   },
   {
     "id": "ebbe8e98da93cd988b7ad0f67c5d19447a447852",
@@ -456,7 +456,7 @@
     "address": "대구광역시 북구 복현동 609-10",
     "roadAddress": "대구광역시 북구 경대로서19길 36-22",
     "link": "https://map.naver.com/v5/search/%EC%BD%A4%EB%A7%8872%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B6%81%EA%B5%AC%20%EA%B2%BD%EB%8C%80%EB%A1%9C%EC%84%9C19%EA%B8%B8%2036-22",
-    "foundQuery": "동대구역 신상 맛집"
+    "foundQuery": "북구 신상 맛집"
   },
   {
     "id": "21ea7609988bf7d3a610d5177d69a0b99fe3533f",
@@ -529,5 +529,14 @@
     "roadAddress": "대구광역시 남구 중앙대로47길 25-2 1층",
     "link": "https://www.instagram.com/fitzroy_cruller?igsh=MWpxYWs1ejJ0bWV1YQ==",
     "foundQuery": "달서구 신상 맛집"
+  },
+  {
+    "id": "b497960204c5dff6e78f6313d8e21578170c6a3f",
+    "title": "낭만놀이",
+    "category": "음식점>양식",
+    "address": "대구광역시 북구 산격동 1309-15 카페 낭만놀이",
+    "roadAddress": "대구광역시 북구 대학로23길 18-9 카페 낭만놀이",
+    "link": "http://instagram.com/nangman__p",
+    "foundQuery": "대구 오픈 맛집"
   }
 ]
